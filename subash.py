@@ -3,3 +3,4 @@ b=20
 c=20
 print(a+b)
 print(a+c)
+print("my name is subash")
